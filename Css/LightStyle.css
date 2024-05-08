@@ -1,6 +1,6 @@
 /* Login Page  */
 
-.login-container ,.containerAuth {
+.login-container ,.containerAuth,.containerAuth {
   background-color: #ffffff48;
   padding: 20px;
   border-radius: 5px;
@@ -55,13 +55,19 @@ body{
     padding: 0px;
     background-attachment: fixed;
     font-family: Arial, sans-serif;
+
+        
+  }
+
+  .loginpage,.HomePageAuterty{
       
     margin: 0;
     padding: 0;
     display: flex;
+    
     justify-content: center;
     align-items: center;
-        
+
   }
   
   .navbar{
